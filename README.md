@@ -38,6 +38,6 @@ make
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
-The mailman core is adapted from [ProPCA project](https://github.com/aman71197/ProPCA), by
+The mailman core is adapted from [ProPCA project](https://github.com/sriramlab/ProPCA), by
 * **Aman Agrawal** - [http://www.cse.iitd.ernet.in/~cs1150210/](http://www.cse.iitd.ernet.in/~cs1150210/)
 * **Alec Chiu** - [alecmchiu.github.io](alecmchiu.github.io)
