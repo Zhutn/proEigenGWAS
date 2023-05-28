@@ -1,9 +1,10 @@
 cmake_minimum_required(VERSION 2.8.12)
 set(CMAKE_C_COMPILER "gcc")
 set(CMAKE_CXX_COMPILER "g++")
-#set(CMAKE_CXX_FLAGS "-std=c++0x -O3 -pthread -fopenmp")
+set(CMAKE_CXX_FLAGS "-O3 -pthread -std=c++11 -fext-numeric-literals")
 set(CMAKE_CXX_STANDARD 14)
 #set(CMAKE_BUILD_TYPE "Debug")
+#add_compile_definitions(_GLIBCXX_USE_CXX11_ABI=0)
 
 project(proEigenGWAS)
 
